@@ -6,11 +6,11 @@ App link: https://infinite-tundra-66148.herokuapp.com/
 
 ![image](https://user-images.githubusercontent.com/54521457/73128353-bf460180-3f93-11ea-825a-853a9bf05494.png)
 
-Purpose: 
+overview:
 
 Creating a movie app based on our moods rather than depending it on an algorithm of what you have watched in the past. 
 
-Technologies that were used: 
+Technologies: 
 
 -Node & express
 -MySQL
